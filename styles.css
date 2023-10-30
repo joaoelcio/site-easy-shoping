@@ -112,13 +112,12 @@ a:active {
 
     .container-left {
         width: 60%;
-        margin-top: 30px;
-        margin-bottom: 15px;
+        margin: 30px auto auto 0px;
         display: inline-block;
     }
 
     .container-right {
-        height: 50vh;
+        height: 100%;
         width: 100%;
         position: fixed;
         display: block;
